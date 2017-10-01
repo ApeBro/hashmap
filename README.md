@@ -19,8 +19,10 @@ Python 3.5.2
 * **hashmapTests.py** - contains 14 test cases for testing the hashmap functions.
 
 ## Run the tests
+
 To run the tests, Python 3 is required to be installed. Run the following command for testing
 `$ python hashmapTests.py`
+
 Sample Output
 ..............
 ----------------------------------------------------------------------
