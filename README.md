@@ -21,9 +21,11 @@ Python 3.5.2
 ## Run the tests
 
 To run the tests, Python 3 is required to be installed. Run the following command for testing
+
 `$ python hashmapTests.py`
 
 Sample Output
+
 ..............
 ----------------------------------------------------------------------
 Ran 14 tests in 0.002s
