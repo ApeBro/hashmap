@@ -26,9 +26,9 @@ To run the tests, Python 3 is required to be installed. Run the following comman
 
 Sample Output
 
-..............
+`..............
 ----------------------------------------------------------------------
-Ran 14 tests in 0.002s
+Ran 14 tests in 0.002s`
 
 
 ## Output
