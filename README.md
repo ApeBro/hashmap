@@ -1,5 +1,5 @@
 # Hashmap
-Using only primitive types, implement a fixed-size hash map that associates string keys with arbitrary data object references (you don't need to copy the object). 
+Using only primitive types, implement a fixed-size hash map that associates string keys with arbitrary data object references (don't need to copy the object). 
 
 ## Hash functions
 Providing the following functions:
@@ -8,3 +8,5 @@ Providing the following functions:
 * **get(key)**: return the value associated with the given key, or null if no value is set.
 * **delete(key)**: delete the value associated with the given key, returning the value on success or null if the key has no value.
 * **float load()**: return a float value representing the load factor (`(items in hash map)/(size of hash map)`) of the data structure. Since the size of the dat structure is fixed, this should never be greater than 1.
+
+
