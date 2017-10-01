@@ -10,6 +10,7 @@ Providing the following functions:
 * **float load()**: return a float value representing the load factor (`(items in hash map)/(size of hash map)`) of the data structure. Since the size of the dat structure is fixed, this should never be greater than 1.
 
 The implementation applies Python's a built-in hashing function for strings, `__hash__`. 
+
 **Collision resolution**：if input an entry with an already existing key, the value assocaited with the key will be overwritten by the new entry value.
 
 ## Language
